@@ -1,1 +1,1 @@
-# OpenGenius
+# Mini-Genius
