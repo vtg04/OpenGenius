@@ -10,7 +10,6 @@ OpenGenius is a transformer-based large language model (LLM) built entirely from
 - Feed-forward layers with layer normalization
 - Top-k sampling and temperature-based decoding
 - Configurable model depth, hidden size, and heads
-- Lightweight and educational (no external LLM libraries used)
 
 ## Architecture Overview
 
