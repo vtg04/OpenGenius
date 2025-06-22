@@ -9,7 +9,7 @@ def xz_files_in_dir(directory):
             files.append(filename)
     return files
 
-folder_path = "C:/Users/DELL/Downloads/openwebtext/openwebtext"
+folder_path = "openwebtext"
 output_file_train = "output_train.txt"
 output_file_val = "output_val.txt"
 vocab_file = "vocab.txt"
